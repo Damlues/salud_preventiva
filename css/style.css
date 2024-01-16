@@ -211,7 +211,7 @@ section{
     height: 110vh;
     display: flex;
     align-items: center;
-    background:url(../images/fondi.jpg) no-repeat;
+    background:url(../img/fondi.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
