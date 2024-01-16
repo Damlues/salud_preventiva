@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+}
+
+.header h1 {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.logo img {
+    max-width: 80px; 
+    height: auto;
+    float: left;
+}
+
+.header-img img {
+    max-width: 30%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.mision-container, .recursos-container, .compromiso-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.mision-container h2, .mision-container h3 {
+    margin: 20px 0;
+}
+
+.mision-container p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.mision-img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.mision-img img {
+    max-width: 30%;
+    height: auto;
+    margin: 10px; 
+}
+.recursos-container {
+    background-color: #f2f2f2;
+    padding: 20px 0;
+}
+
+
+.recursos-container h3 {
+    margin: 20px 0;
+   
+}
+
+.recursos-container p {
+    text-align: justify;
+    margin-bottom: 20px;
+    
+}
+
+.recursos-img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.recursos-img img {
+    max-width: 30%; 
+    height: auto;
+    margin: 10px; 
+}
+
+
+.compromiso-container h4 {
+    margin: 20px 0;
+}
+
+.compromiso-container p {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.compromiso-img {
+    display: flex;
+    justify-content: space-around;
+}
+
+.compromiso-img img {
+    max-width: 30%; 
+    height: auto;
+    margin: 10px; 
+}
+
+
+
+
+
+
+
+
